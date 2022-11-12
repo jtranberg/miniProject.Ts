@@ -1,16 +1,22 @@
 #btn {
+ background-color: rgb(200, 222, 191);  
 font-size: 1rem;
 color:orange;
+height: 45px;
 border-radius: 8px;
 }
 
+body {
+    background:linear-gradient(to bottom right,#e38282, #62d63fee) ;
+}
 h1 {
     text-align: center;
-    color: rgb(75, 134, 134);
+    color: rgb(46, 98, 146);
 }
  
 #todoinput {
     font-size: 30px;
+    height: 45px;
     background-color: rgb(142, 48, 224);
     }
 
@@ -20,7 +26,10 @@ input::placeholder{
 
   #todolist  {
     font-size: 2rem;
-    color:rgb(212, 140, 7);
+    color:rgb(148, 116, 56);
     border-radius: 8px;
     text-align: center;
+  }
+  #todoform {
+    height:100px;
   }
