@@ -1,0 +1,26 @@
+#btn {
+font-size: 1rem;
+color:orange;
+border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(75, 134, 134);
+}
+ 
+#todoinput {
+    font-size: 30px;
+    background-color: rgb(142, 48, 224);
+    }
+
+input::placeholder{
+    color: rgb(101, 224, 224);
+  }
+
+  #todolist  {
+    font-size: 2rem;
+    color:rgb(212, 140, 7);
+    border-radius: 8px;
+    text-align: center;
+  }
